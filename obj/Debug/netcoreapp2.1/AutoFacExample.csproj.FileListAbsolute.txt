@@ -1,0 +1,11 @@
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/obj/Debug/netcoreapp2.1/AutoFacExample.csprojAssemblyReference.cache
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/obj/Debug/netcoreapp2.1/AutoFacExample.csproj.CoreCompileInputs.cache
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/obj/Debug/netcoreapp2.1/AutoFacExample.AssemblyInfoInputs.cache
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/obj/Debug/netcoreapp2.1/AutoFacExample.AssemblyInfo.cs
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/bin/Debug/netcoreapp2.1/AutoFacExample.deps.json
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/bin/Debug/netcoreapp2.1/AutoFacExample.runtimeconfig.json
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/bin/Debug/netcoreapp2.1/AutoFacExample.runtimeconfig.dev.json
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/bin/Debug/netcoreapp2.1/AutoFacExample.dll
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/bin/Debug/netcoreapp2.1/AutoFacExample.pdb
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/obj/Debug/netcoreapp2.1/AutoFacExample.dll
+/home/kkamdar/Documents/c# tutorials/AutoFacExample/obj/Debug/netcoreapp2.1/AutoFacExample.pdb
